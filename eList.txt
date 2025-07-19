@@ -1,0 +1,5 @@
+201911007,Butt,James,Staff,Accounting,01-21-1993,475
+201203008,Darakjy,Josephine,Staff,Sales and Marketing,08-04-1989,475
+199710014,Venere,Art,Staff,Human Resources,750,10-11-1991,475
+201612010,Paprocki,Lenna,Staff,Manufacturing,04-24-1988,475
+201710017,Foller,Donnette,Staff,Admin,12-31-1996,475
